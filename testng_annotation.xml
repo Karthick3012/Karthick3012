@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="annotation">
+	<test thread-count="5" name="TestNG">
+		<classes>
+			<class name="annotation.CreateLead" />
+			<class name="annotation.EditLead" />
+			<class name="annotation.DuplicateLead" />
+			<class name="annotation.MergeLead" />
+			<class name="annotation.DeleteLead" />
+		</classes>
+	</test> <!-- TestNG -->
+</suite> <!-- annotation -->
