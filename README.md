@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karthick3012
 - 👀 I’m interested in Computer technologies
-- 🌱 I’m currently learning Selenium
+- 🌱 I’m Certified Selenium Automation Tester
 - 📫 reach me at bskkarthick5550@gmail.com
 
 <!---
